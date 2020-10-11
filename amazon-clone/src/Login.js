@@ -12,6 +12,12 @@ function Login() {
     e.preventDefault();
   };
 
+  const newLoginAlert = () {
+
+    If shown
+    
+  }
+
   const register = (e) => {
     e.preventDefault();
 
